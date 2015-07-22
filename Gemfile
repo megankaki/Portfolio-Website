@@ -82,5 +82,6 @@ group :development, :test do
 
   # Better errors
   gem "better_errors"
+  ruby '2.1.5'
 end
 
